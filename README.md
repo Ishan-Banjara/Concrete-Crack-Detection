@@ -5,7 +5,7 @@ The dataset was downloaded in zip format from website: https://www.kaggle.com/da
 The archive.zip file is from the above link.
 Due to lack of computational resources only 8,000 (negative/no cracks: 4,000 and positive/cracks: 4,000) of the image dataset were used out of 40,000 (negative/no cracks: 20,000 and positive/cracks: 20,000).
 
-The CNN model built for the project was inspired from Siamese Network. Link to paper: https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
+The CNN model built for the project was inspired from the Siamese Network. Link to paper: https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 
 The model built can be clearly explained from the picture below:
 
