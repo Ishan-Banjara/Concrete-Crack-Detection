@@ -1,6 +1,6 @@
 # Concrete-Crack-Detection
 This repository contains a CNN model that helps to detect concrete crack.
-The dataset was downloaded in zip format from website: https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
+The dataset was downloaded in zip format from the website: https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
 
 The archive.zip file is from the above link.
 Due to lack of computational resources only 8,000 (negative/no cracks: 4,000 and positive/cracks: 4,000) of the image dataset were used out of 40,000 (negative/no cracks: 20,000 and positive/cracks: 20,000).
